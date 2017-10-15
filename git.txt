@@ -1,0 +1,17 @@
+git config --global user.name "Tatara"
+git config --global user.email rabumel.dpl@gmail.com
+
+option
+Looks High Opaque check
+Text select consolas 11
+Mouse Clicks place 
+Window 100 30
+
+default path setting
+
+git init
+git status
+git commit -m ""
+git add
+
+
