@@ -1,18 +1,34 @@
 git config --global user.name "Tatara"
 git config --global user.email rabumel.dpl@gmail.com
 
-option
-Looks High Opaque check
-Text select consolas 11
-Mouse Clicks place 
-Window 100 30
-
 default path setting
 
+ワークツリー(登録)インデックス(コミット)ローカルリポジトリ(プッシュ)リモートリポジトリ
+
+git init ディレクトリにリポジトリを作成
+
+git add ... インデックスに登録
+git commit -m "comment"　コミット
+git remote add origin git@github.com:R-Tatara/test.git
+git push -u origin master
+
+git clone https://
+git pull https://
+
+
+git status 変更内容の表示
+git log コミットログの表示
+git config 使用方法の表示
+
+
+echo "# test1" >> readme.md
 git init
-git status
-git commit -m ""
-git add
+git add read.md
+git commit -m "first commit"
+git remote add origin https://github.com/R-Tatara/test1.git
+git push -u origin master
+
+echo "" >> .txt 文末に挿入
 
 
-Hi Im Tatara
+
