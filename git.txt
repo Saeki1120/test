@@ -29,6 +29,7 @@ git remote add origin https://github.com/R-Tatara/test1.git
 git push -u origin master
 
 echo "" >> .txt •¶––‚É‘}“ü
+a
 
 
 
