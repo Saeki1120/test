@@ -31,5 +31,5 @@ git push -u origin master
 echo "" >> .txt •¶––‚É‘}“ü
 a
 
-
-
+aiueo
+kakkikukeko
